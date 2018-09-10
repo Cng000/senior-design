@@ -1,0 +1,40 @@
+{
+  "done_CA": [
+    {
+      "name": "La Chamade",
+      "business_id": "UntbR8C0Mxsfd-hNBZXO-w",
+      "date": "12:00",
+      "count": "1"
+    },
+    {
+      "name": "La Chamade",
+      "business_id": "UntbR8C0Mxsfd-hNBZXO-w",
+      "date": "13:00",
+      "count": "1"
+    },
+    {
+      "name": "La Chamade",
+      "business_id": "UntbR8C0Mxsfd-hNBZXO-w",
+      "date": "15:00",
+      "count": "1"
+    },
+    {
+      "name": "La Chamade",
+      "business_id": "UntbR8C0Mxsfd-hNBZXO-w",
+      "date": "18:00",
+      "count": "1"
+    },
+    {
+      "name": "La Chamade",
+      "business_id": "UntbR8C0Mxsfd-hNBZXO-w",
+      "date": "20:00",
+      "count": "2"
+    },
+    {
+      "name": "La Chamade",
+      "business_id": "UntbR8C0Mxsfd-hNBZXO-w",
+      "date": "22:00",
+      "count": "1"
+    }
+  ]
+}

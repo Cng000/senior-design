@@ -1,0 +1,340 @@
+{
+  "done_NY": [
+    {
+      "name": "Angelo\\'s Pizza & Grill",
+      "business_id": "BmZu5ackYYCrgQIaJ3-r9A",
+      "date": "0:00",
+      "count": "2"
+    },
+    {
+      "name": "Angelo\\'s Pizza & Grill",
+      "business_id": "BmZu5ackYYCrgQIaJ3-r9A",
+      "date": "16:00",
+      "count": "2"
+    },
+    {
+      "name": "Angelo\\'s Pizza & Grill",
+      "business_id": "BmZu5ackYYCrgQIaJ3-r9A",
+      "date": "17:00",
+      "count": "3"
+    },
+    {
+      "name": "Angelo\\'s Pizza & Grill",
+      "business_id": "BmZu5ackYYCrgQIaJ3-r9A",
+      "date": "18:00",
+      "count": "1"
+    },
+    {
+      "name": "Angelo\\'s Pizza & Grill",
+      "business_id": "BmZu5ackYYCrgQIaJ3-r9A",
+      "date": "20:00",
+      "count": "2"
+    },
+    {
+      "name": "Angelo\\'s Pizza & Grill",
+      "business_id": "BmZu5ackYYCrgQIaJ3-r9A",
+      "date": "21:00",
+      "count": "1"
+    },
+    {
+      "name": "Angelo\\'s Pizza & Grill",
+      "business_id": "BmZu5ackYYCrgQIaJ3-r9A",
+      "date": "22:00",
+      "count": "3"
+    },
+    {
+      "name": "Angelo\\'s Pizza & Grill",
+      "business_id": "BmZu5ackYYCrgQIaJ3-r9A",
+      "date": "23:00",
+      "count": "1"
+    },
+    {
+      "name": "Best Friends Family Diner",
+      "business_id": "0oyzNutZ--rBqP_boeegPg",
+      "date": "19:00",
+      "count": "2"
+    },
+    {
+      "name": "China Buffet",
+      "business_id": "Uz77JHl5e6zlGa-71-6_dA",
+      "date": "19:00",
+      "count": "1"
+    },
+    {
+      "name": "Filion\\'s Diner",
+      "business_id": "-Rw3wxbeHhZy6SURriXZ8g",
+      "date": "15:00",
+      "count": "1"
+    },
+    {
+      "name": "Filion\\'s Diner",
+      "business_id": "-Rw3wxbeHhZy6SURriXZ8g",
+      "date": "17:00",
+      "count": "1"
+    },
+    {
+      "name": "Gino\\'s Pizza",
+      "business_id": "6ipr7nnwrzf_o3MGD-8nlA",
+      "date": "0:00",
+      "count": "2"
+    },
+    {
+      "name": "Gino\\'s Pizza",
+      "business_id": "6ipr7nnwrzf_o3MGD-8nlA",
+      "date": "18:00",
+      "count": "3"
+    },
+    {
+      "name": "Gino\\'s Pizza",
+      "business_id": "6ipr7nnwrzf_o3MGD-8nlA",
+      "date": "1:00",
+      "count": "1"
+    },
+    {
+      "name": "Gino\\'s Pizza",
+      "business_id": "6ipr7nnwrzf_o3MGD-8nlA",
+      "date": "21:00",
+      "count": "2"
+    },
+    {
+      "name": "Gino\\'s Pizza",
+      "business_id": "6ipr7nnwrzf_o3MGD-8nlA",
+      "date": "22:00",
+      "count": "1"
+    },
+    {
+      "name": "Gino\\'s Pizza",
+      "business_id": "6ipr7nnwrzf_o3MGD-8nlA",
+      "date": "23:00",
+      "count": "1"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "11:00",
+      "count": "1"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "12:00",
+      "count": "4"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "13:00",
+      "count": "5"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "14:00",
+      "count": "7"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "15:00",
+      "count": "5"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "16:00",
+      "count": "1"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "17:00",
+      "count": "2"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "19:00",
+      "count": "4"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "20:00",
+      "count": "1"
+    },
+    {
+      "name": "Lakeside Coffee",
+      "business_id": "f5Pg89x-2xek78E9KHMhNg",
+      "date": "21:00",
+      "count": "1"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "0:00",
+      "count": "2"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "11:00",
+      "count": "1"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "12:00",
+      "count": "1"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "14:00",
+      "count": "1"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "15:00",
+      "count": "3"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "16:00",
+      "count": "4"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "17:00",
+      "count": "1"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "18:00",
+      "count": "1"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "19:00",
+      "count": "2"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "20:00",
+      "count": "1"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "21:00",
+      "count": "1"
+    },
+    {
+      "name": "McDonalds",
+      "business_id": "LbM7p-cI0dUCkaUzOyFMTw",
+      "date": "2:00",
+      "count": "1"
+    },
+    {
+      "name": "Sandi\\'s Kountry Kitchen",
+      "business_id": "jH19V2I9fIslnNhDzPmdkA",
+      "date": "15:00",
+      "count": "1"
+    },
+    {
+      "name": "Sandi\\'s Kountry Kitchen",
+      "business_id": "jH19V2I9fIslnNhDzPmdkA",
+      "date": "18:00",
+      "count": "1"
+    },
+    {
+      "name": "Sandy\\'s Deli & Catering",
+      "business_id": "sY2TrIpQaS8kFDI8GRGS3Q",
+      "date": "0:00",
+      "count": "1"
+    },
+    {
+      "name": "Sandy\\'s Deli & Catering",
+      "business_id": "sY2TrIpQaS8kFDI8GRGS3Q",
+      "date": "1:00",
+      "count": "1"
+    },
+    {
+      "name": "Sandy\\'s Deli & Catering",
+      "business_id": "sY2TrIpQaS8kFDI8GRGS3Q",
+      "date": "20:00",
+      "count": "1"
+    },
+    {
+      "name": "Sandy\\'s Deli & Catering",
+      "business_id": "sY2TrIpQaS8kFDI8GRGS3Q",
+      "date": "21:00",
+      "count": "3"
+    },
+    {
+      "name": "Sandy\\'s Deli & Catering",
+      "business_id": "sY2TrIpQaS8kFDI8GRGS3Q",
+      "date": "22:00",
+      "count": "1"
+    },
+    {
+      "name": "Valero",
+      "business_id": "xkha6iK_PLsUqnFB-CJW5g",
+      "date": "0:00",
+      "count": "2"
+    },
+    {
+      "name": "Valero",
+      "business_id": "xkha6iK_PLsUqnFB-CJW5g",
+      "date": "10:00",
+      "count": "1"
+    },
+    {
+      "name": "Valero",
+      "business_id": "xkha6iK_PLsUqnFB-CJW5g",
+      "date": "13:00",
+      "count": "2"
+    },
+    {
+      "name": "Valero",
+      "business_id": "xkha6iK_PLsUqnFB-CJW5g",
+      "date": "15:00",
+      "count": "1"
+    },
+    {
+      "name": "Valero",
+      "business_id": "xkha6iK_PLsUqnFB-CJW5g",
+      "date": "16:00",
+      "count": "2"
+    },
+    {
+      "name": "Valero",
+      "business_id": "xkha6iK_PLsUqnFB-CJW5g",
+      "date": "17:00",
+      "count": "3"
+    },
+    {
+      "name": "Valero",
+      "business_id": "xkha6iK_PLsUqnFB-CJW5g",
+      "date": "18:00",
+      "count": "3"
+    },
+    {
+      "name": "Valero",
+      "business_id": "xkha6iK_PLsUqnFB-CJW5g",
+      "date": "19:00",
+      "count": "1"
+    },
+    {
+      "name": "Valero",
+      "business_id": "xkha6iK_PLsUqnFB-CJW5g",
+      "date": "22:00",
+      "count": "1"
+    }
+  ]
+}
